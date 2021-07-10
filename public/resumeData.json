@@ -65,51 +65,43 @@
     "skills": [
       {
         "name": "Python",
-        "level": "85%"
+        "text": "I started learning python online following Youtube tutorial. Later on I joined CODEIT Institute of Technology (CIT) an online American school, where I got certified as a python developer. I made a music application using python with Tkinter and Pygame libraries"
       },
       {
         "name": "Django",
-        "level": "90%"
+        "text": "I learnt Django, python web framework after learning python. I like its Model-View-Template architecture, it helps to work on different components parallelly,and integrating them much more efficiently. I built a voting application for one of my classes at CODEIT Institute of Technology."
       },
       {
         "name": "Ruby",
-        "level": "90%"
+        "text": "When I joined Microverse, Ruby was one of the programming languages I was eager to learn. At first, I thought it was similar to python but while learning it, I realized they are different with very few similarities. I built a ruby linter, a program that checks for errors in ruby code when i finished learning the module in Microverse"
       },
       {
         "name": "Ruby on Rails",
-        "level": "90%"
+        "text": "I learnt rails while at microverse, I do enjoy using rails to build web application. One of the projects I enjoyed building using rails was my project manager application called Hilnex Project Manager."
       },
       {
         "name": "JavaScript",
-        "level": "90%"
+        "text": "I use JavaScript when working on basic web applications. I have built a couple of projects using it including a weather application, an RPG game with phaser3 framework."
       },
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "HTML",
-        "level": "99%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
+        "text": "Among the JavaScript frameworks, I know ReactJs. It makes work easier for me by facilitating the overall process of writing components and boots my productivity."
       },
       {
         "name": "Git",
-        "level": "80%"
+        "text": "I use Git for all of my projects so far. I have used Git for version control in small teams. It's one of my favorite development tools."
       },
       {
         "name": "PHP",
-        "level": "80%"
+        "text":"PHP was the first scripting language I leant for web development. I have built a coupon generating website and other websites for clients using PHP while freelancing."
       },
       {
         "name": "SQL",
-        "level": "80%"
+        "text": "I use SQL as my database when working on PHP projects. It is one of the Relational Databases I have had the pleasure of using for my projects."
       },
       {
         "name": "MongoDB",
-        "level": "60%"
+        "text": "I am fairly new to MongoDB and haven't used it so much. Am still learning how it works and experimenting with it on different projects."
       }
     ]
   },
@@ -119,31 +111,36 @@
         "title": "Music Medals",
         "category": "An RPG Game build with JavaScript and Phaser library about an alien boy who collects music medals while avoiding mines",
         "image": "game.png",
-        "url": "http://musicmedal.netlify.app/"
+        "url": "http://musicmedal.netlify.app/",
+        "github": "https://github.com/HillaryOkello/RPG-Game"
       },
       {
         "title": "Weather App",
         "category": "Weather application built with JavaScript and openweather API",
         "image": "weather-app.png",
-        "url": "https://github.com/HillaryOkello/weather-app-js"
+        "url": "https://github.com/HillaryOkello/weather-app-js",
+        "github":"https://github.com/HillaryOkello/weather-app-js"
       },
       {
         "title": "My Library",
         "category": "A Library developed in Javascript where you can add new books, remove the books created and change the status of the book, from read to not read.",
         "image": "mylibrary.png",
-        "url": "https://hillary-library.netlify.app/"
+        "url": "https://hillary-library.netlify.app/",
+        "github": "https://github.com/HillaryOkello/Library"
       },
       {
         "title": "Hilnex Project Manager",
         "category": "This is a project management application that allows you to group hours spent on different projects at your university. You can group your projects in different categories and note down how many hours you spend on each project",
         "image": "Hilnex P.png",
-        "url": "https://hilnexprojectmanager.herokuapp.com/"
+        "url": "https://hilnexprojectmanager.herokuapp.com/",
+        "github": "https://github.com/HillaryOkello/Rails-Capstone"
       },
       {
         "title": "Hilnex Educator",
         "category": "Hilnex Educator is an online course directory, it helps you find the right online course for you. You can search, locate and enroll in any course you are interested in and get to learn new things. It is built with HTML, CSS, Bootstrap and SASS. I built it as my capstone project after completing the HTML and CSS module at Microverse",
         "image": "Hilnex E.png",
-        "url": "https://hillaryokello.github.io/Hilnex-Educator/"
+        "url": "https://hillaryokello.github.io/Hilnex-Educator/",
+        "github": "https://github.com/HillaryOkello/Hilnex-Educator"
       }
     ]
   }

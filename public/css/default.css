@@ -147,7 +147,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #2d2e30;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -314,7 +314,9 @@ ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
 ul.large li { }
-li p { }
+li p {
+   font-size: 1em;
+}
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup

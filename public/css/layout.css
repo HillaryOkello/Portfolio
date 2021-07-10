@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: white;
 }
 #about .profile-pic {
    position: relative;
@@ -296,11 +296,7 @@ ul#nav li.current a { color: #F06000; }
    list-style: none;
 }
 .bars li {
-   position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
-  	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
@@ -521,6 +517,32 @@ ul#nav li.current a { color: #F06000; }
    opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
+}
+
+.portfolio-item .btn {
+   display: inline-block;
+   font-weight: 400;
+   text-align: center;
+   white-space: nowrap;
+   vertical-align: middle;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   border: 1px solid transparent;
+   padding: .375rem .75rem;
+   font-size: 1.2rem;
+   margin: 1rem;
+   padding: 10px;
+   line-height: 1.5;
+   border-radius: .25rem;
+   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.portfolio-item .btn-primary {
+   color: #fff;
+   background-color: #6c757d;
+   border-color: #6c757d;
 }
 
 /* popup modal */
@@ -803,7 +825,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #c7c6c6;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -939,7 +961,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #999797;
    font-size: 14px;
    text-align: center;
    position: relative;
