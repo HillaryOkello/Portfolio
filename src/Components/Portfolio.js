@@ -19,12 +19,15 @@ class Portfolio extends Component {
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
+          <p>{projects.category}</p> Built with: <b>{projects.tech}</b>
+          <div>
           <a href={projects.url} target="_blank">
             <button className="btn btn-primary">Live Link</button>
           </a>
           <a href={projects.github} target="_blank">
             <button className="btn btn-primary">Source Code</button>
           </a>
+          </div>       
         </div>
       })
     }

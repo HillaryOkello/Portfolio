@@ -109,14 +109,16 @@
     "projects": [
       {
         "title": "Music Medals",
-        "category": "An RPG Game build with JavaScript and Phaser library about an alien boy who collects music medals while avoiding mines",
+        "category": "An RPG Game build with JavaScript and Phaser library about an alien boy who collects music medals while avoiding mines.",
+        "tech": "JavaScript, Webpack, Phaser",
         "image": "game.png",
         "url": "http://musicmedal.netlify.app/",
         "github": "https://github.com/HillaryOkello/RPG-Game"
       },
       {
         "title": "Weather App",
-        "category": "Weather application built with JavaScript and openweather API",
+        "category": "Weather application built with JavaScript and openweather API. It fetches weather information for any city in the world and displays.",
+        "tech": "JavaScript, Webpack, HTML5",
         "image": "weather-app.png",
         "url": "https://github.com/HillaryOkello/weather-app-js",
         "github":"https://github.com/HillaryOkello/weather-app-js"
@@ -124,13 +126,15 @@
       {
         "title": "My Library",
         "category": "A Library developed in Javascript where you can add new books, remove the books created and change the status of the book, from read to not read.",
+        "tech": "JavaScript, HTML5",
         "image": "mylibrary.png",
         "url": "https://hillary-library.netlify.app/",
         "github": "https://github.com/HillaryOkello/Library"
       },
       {
         "title": "Hilnex Project Manager",
-        "category": "This is a project management application that allows you to group hours spent on different projects at your university. You can group your projects in different categories and note down how many hours you spend on each project",
+        "category": "This is a project management application that allows you to group hours spent on different projects at your university. You can group your projects in different categories and note down how many hours you spend on each project.",
+        "tech": "Ruby, Rails, Bootstrap, SASS, PostgreSQL",
         "image": "Hilnex P.png",
         "url": "https://hilnexprojectmanager.herokuapp.com/",
         "github": "https://github.com/HillaryOkello/Rails-Capstone"
@@ -138,6 +142,7 @@
       {
         "title": "Hilnex Educator",
         "category": "Hilnex Educator is an online course directory, it helps you find the right online course for you. You can search, locate and enroll in any course you are interested in and get to learn new things. It is built with HTML, CSS, Bootstrap and SASS. I built it as my capstone project after completing the HTML and CSS module at Microverse",
+        "tech": "HTML5, CSS, Bootstrap, SCSS",
         "image": "Hilnex E.png",
         "url": "https://hillaryokello.github.io/Hilnex-Educator/",
         "github": "https://github.com/HillaryOkello/Hilnex-Educator"

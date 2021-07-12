@@ -296,7 +296,7 @@ ul#nav li.current a { color: #F06000; }
    list-style: none;
 }
 .bars li {
-  	margin-bottom: 60px;
+  	margin-bottom:40px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
