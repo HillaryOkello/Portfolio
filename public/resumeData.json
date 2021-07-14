@@ -14,7 +14,7 @@
       "state": "Uganda"
     },
     "website": "http://www.hillaryokello.com",
-    "resumedownload": "https://drive.google.com/file/d/1fpsmk0OB_HDYoJYyGN_xNRLvhNGXzmQs/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/14WGi12SS9VYfqFCkyic5VRyTbLWq92A_/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -112,7 +112,7 @@
         "category": "An RPG Game build with JavaScript and Phaser library about an alien boy who collects music medals while avoiding mines.",
         "tech": "JavaScript, Webpack, Phaser",
         "image": "game.png",
-        "url": "http://musicmedal.netlify.app/",
+        "url": "https://boring-carson-13aee4.netlify.app/",
         "github": "https://github.com/HillaryOkello/RPG-Game"
       },
       {
@@ -120,7 +120,7 @@
         "category": "Weather application built with JavaScript and openweather API. It fetches weather information for any city in the world and displays.",
         "tech": "JavaScript, Webpack, HTML5",
         "image": "weather-app.png",
-        "url": "https://github.com/HillaryOkello/weather-app-js",
+        "url": "http://hillaryokello.me/weather-app-js/",
         "github":"https://github.com/HillaryOkello/weather-app-js"
       },
       {
@@ -128,7 +128,7 @@
         "category": "A Library developed in Javascript where you can add new books, remove the books created and change the status of the book, from read to not read.",
         "tech": "JavaScript, HTML5",
         "image": "mylibrary.png",
-        "url": "https://hillary-library.netlify.app/",
+        "url": "https://jovial-lamport-0da5e3.netlify.app/",
         "github": "https://github.com/HillaryOkello/Library"
       },
       {
